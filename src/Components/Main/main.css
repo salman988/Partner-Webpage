@@ -1,0 +1,64 @@
+#partner-page #partnerWalah1{
+  margin-bottom: 0px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+ #partner-page h4{ 
+  padding-top: 7px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #777777;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+}
+#partner-page b{
+  font-family: "Poppins", sans-serif;
+  color: #44b6eb;
+  font-weight: 300;
+}
+#partner-page .headerTwo{
+  font-size: 1.8em;
+  padding-right: 50px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+#partner-page #paragraph{
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+    padding-right: 100px;
+
+}
+#partner-page #programBelow{
+  padding-right: 120px;
+
+}
+#partner-page .btn button{
+  color: #ffffff;
+    background-color: #0c8e49;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    background-image: linear-gradient(to right, #49b758 0%, #0c8e49 50%, #49b758 100%);
+    transition: all .2s ease-in-out;
+    background-size: 200% 100%;
+    font-size: 1rem;
+    padding: .8rem 2rem;
+}
+#partner-page .container-fluid{
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-top: 15px;
+}
+#partner-page #lastPicture{
+  margin-bottom: 120px;
+}
+
+#partner-page  p{
+  padding-right: 90px;
+}
+#partner-page .img-fluid{
+  margin-top: 50px;
+}

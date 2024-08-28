@@ -1,0 +1,84 @@
+#partner-footer{
+  font-family: "Poppins", sans-serif;
+}
+#partner-footer .container-fluid-footer{
+  background-color: #171940;
+  margin-top: 40px;
+
+}
+#partner-footer .menu{
+  list-style-type: none;
+  padding-left: 0px;
+  line-height: 25px;
+}
+#partner-footer a{
+  text-decoration: none;
+  color: white;
+}
+#partner-footer .footer-call{
+  font-weight:bold;
+  color: white;
+ 
+}
+#partner-footer #ourOffice{
+  color:#0f9aee;
+}
+#partner-footer #footerWalaP{
+  padding-right: 0px; 
+  color: white;
+}
+#partner-footer .fsd{
+  padding-top: 50px;
+  padding-left: 35px;
+}
+#partner-footer .footer-call-offices{
+  margin-bottom: 15px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+#partner-footer #email{
+  margin-top: 15px;
+  color: white;
+}
+
+#partner-footer .share-facebook:hover{
+  fill: rgb(247, 248, 247);
+  background-color: #0f9aee !important;
+}
+#partner-footer .share-twitter:hover{
+  fill: rgb(247, 248, 247);
+  background-color: #1DA1F2 !important;
+}
+#partner-footer .share-youtube:hover{
+  fill: rgb(247, 248, 247);
+  background-color: red !important;
+}
+#partner-footer .share-linkedin:hover{
+  fill: rgb(247, 248, 247);
+  background-color: #0A66C2 !important;
+}
+
+#partner-footer .container{
+  color: rgb(255, 255, 255);
+  padding-top: 20px;
+}
+#partner-footer .containerOne{
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+#partner-footer #footerWalaText{
+  color: grey;
+}
+#partner-footer .h4-Footer{
+  color: white;
+  margin-bottom: 20px;
+  font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+#partner-footer #fsdWali{
+  width: 300px;
+}
+
+
